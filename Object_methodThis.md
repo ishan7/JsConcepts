@@ -16,7 +16,7 @@ let user = {
     alert(this.name);
   }
 
-};C:\Users\IshanUniyalMAQSoftwa\Desktop\React_part\ReactPart\ObjectMethods_this.md
+};
 
 user.sayHi(); // John
 Here during the execution of user.sayHi(), the value of this will be user.
